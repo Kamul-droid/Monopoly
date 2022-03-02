@@ -35,3 +35,10 @@
 
 *.pdb
 *.ilk
+
+# Unreal Engine shit
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
